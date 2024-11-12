@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:d3jSR4h6w9kEfXpN@tulparcargo.hgch3.mongodb.net/?retryWrites=true&w=majority&appName=tulparcargo",
+    "secretKey" : "mern-secret-key"
+}
